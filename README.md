@@ -14,7 +14,7 @@ Practice notebooks demonstrating key `pandas` functionality:
 - Working with missing data
 - Basic visualizations
 
-> Great for understanding foundational operations in data analysis.
+
 
 ---
 
@@ -25,7 +25,7 @@ A real-world scraping project that:
 - Parses and stores structured data in a DataFrame
 - Optionally exports to CSV or Excel
 
-> Ideal for showcasing how to collect real-world data from websites using Python.
+
 
 ---
 
